@@ -18,3 +18,13 @@ An online trajectory optimization algorithm for optimal control problem(OCP).
 - [anassinator/ilqr](https://github.com/anassinator/ilqr)
 - [navigator8972/pylqr](https://github.com/navigator8972/pylqr)
 - [b4be1/iLQR](https://github.com/b4be1/iLQR)
+
+
+
+# Model-based reinforcement learning with neural network
+
+
+- [1] A. Nagabandi, G. Kahn, R. S. Fearing, and S. Levine, “Neural Network Dynamics for Model-Based Deep Reinforcement Learning with Model-Free Fine-Tuning,” arXiv:1708.02596 [cs], Aug. 2017.
+
+## Reference
+- [Neural Network Dynamics for Model-Based Deep Reinforcement Learning with Model-Free Fine-Tuning github](https://github.com/nagaban2/nn_dynamics)
