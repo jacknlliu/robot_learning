@@ -24,7 +24,7 @@ An online trajectory optimization algorithm for optimal control problem(OCP).
 # Model-based reinforcement learning with neural network
 
 
-- [1] A. Nagabandi, G. Kahn, R. S. Fearing, and S. Levine, “Neural Network Dynamics for Model-Based Deep Reinforcement Learning with Model-Free Fine-Tuning,” arXiv:1708.02596 [cs], Aug. 2017.
+- [1](https://arxiv.org/abs/1708.02596) A. Nagabandi, G. Kahn, R. S. Fearing, and S. Levine, “Neural Network Dynamics for Model-Based Deep Reinforcement Learning with Model-Free Fine-Tuning,” arXiv:1708.02596 [cs], Aug. 2017.
 
 ## Reference
 - [Neural Network Dynamics for Model-Based Deep Reinforcement Learning with Model-Free Fine-Tuning github](https://github.com/nagaban2/nn_dynamics)
