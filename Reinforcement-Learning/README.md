@@ -20,3 +20,4 @@
 ## Reference
 - [vmayoral/basic_reinforcement_learning](https://github.com/vmayoral/basic_reinforcement_learning)
 - [rll/rllab](https://github.com/rll/rllab)
+- [Implementing New Algorithms (Basic)](https://rllab.readthedocs.io/en/latest/user/implement_algo_basic.html)
