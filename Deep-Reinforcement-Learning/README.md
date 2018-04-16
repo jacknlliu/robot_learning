@@ -40,3 +40,11 @@ An online trajectory optimization algorithm for optimal control problem(OCP).
 - [andrewliao11/pytorch-a3c-mujoco - Implement A3C for Mujoco gym envs](https://github.com/andrewliao11/pytorch-a3c-mujoco)
 - [ikostrikov/pytorch-a3c - PyTorch implementation of Asynchronous Advantage Actor Critic (A3C)](https://github.com/ikostrikov/pytorch-a3c)
 - [openai/robosumo - competitive multi-agent environments](https://github.com/openai/robosumo)
+
+
+# Implement Repositories
+
+## Reference
+- [openai/baselines](https://github.com/openai/baselines)
+- [reinforceio/tensorforce](https://github.com/reinforceio/tensorforce)
+- [ShangtongZhang/DeepRL(PyTorch)](https://github.com/ShangtongZhang/DeepRL)
