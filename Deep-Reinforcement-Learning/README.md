@@ -42,7 +42,7 @@ An online trajectory optimization algorithm for optimal control problem(OCP).
 - [openai/robosumo - competitive multi-agent environments](https://github.com/openai/robosumo)
 
 
-# Implement Repositories
+# Algorithm Implement Repositories
 
 ## Reference
 - [openai/baselines](https://github.com/openai/baselines)
